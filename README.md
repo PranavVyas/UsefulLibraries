@@ -21,3 +21,6 @@ In this **I am including libries that contain only Andriod specific libraries fo
 - [x] Binding of click handlers also
 - [x] Easy to implement many other functionality like LongClickHandler etc...
 - [x] Faster Binding of elements
+4. **Room** 
+- [x] Room is an official Android ORM
+- [x] Additionally, Room includes out of the box support for Rx and “LiveData,” so you can decide to use it however you like
