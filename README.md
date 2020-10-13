@@ -43,3 +43,9 @@ https://github.com/kizitonwose/CalendarView
 - [x] Horizontal- or vertical-scrolling mode
 - [x] Fully customizable views
 
+7. **MaterialDateTimePicker**
+https://github.com/wdullaer/MaterialDateTimePicker
+
+- [x] Material DateTime Picker tries to offer you the date and time pickers as shown in the Material Design spec, with an easy themable API.
+- [x] The library uses the code from the Android frameworks as a base and tweaked it to be as close as possible to Material Design example.
+- [x] Support for Android 4.1 and up. (Android 4.0 was supported until 3.6.4)
