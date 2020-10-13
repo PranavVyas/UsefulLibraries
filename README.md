@@ -31,3 +31,15 @@ Picasso automatically detects adapter re-use and the previously canceled downloa
 It easily and effectively transforms images to make them fit better into layouts and reduce memory size.
 
 For more advanced effects, one can specify custom transformations.
+
+6. **CalendarView**
+https://github.com/kizitonwose/CalendarView
+
+- [x] It has lots of features:
+- [x] Single or range selection
+- [x] Week or month mode
+- [x] Boundary dates
+- [x] Custom calendar view
+- [x] Horizontal- or vertical-scrolling mode
+- [x] Fully customizable views
+
