@@ -51,14 +51,14 @@ https://github.com/wdullaer/MaterialDateTimePicker
 - [x] Support for Android 4.1 and up. (Android 4.0 was supported until 3.6.4)
 
 8. Expenso
-This is a simple application for tracking your expenses.
-
-The project was built to showcase the usage of Android modern development components based on MVVM architecture, like:
+-[x] This is a simple application for tracking your expenses.
+-[x] The project was built to showcase the usage of Android modern development components based on MVVM architecture, like:
 Coroutines
-Android Architecture Components, especially: Stateflow, Flow, ViewModel , Room, Jetpack Navigation, DataStore, and Material Components for Android
+-[x] Android Architecture Components, especially: Stateflow, Flow, ViewModel , Room, Jetpack Navigation, DataStore, and Material Components for Android
 The documentation is really good and presents the overall project structure and architecture.
 
 9. TimeRangePicker
-Here’s a customisable, easy-to-use, and functional circular time range picker library:
-The project is 100% written in Kotlin and was created to mimic Apple’s iOS or Samsung’s bedtime picker. It has good documentation, which also helps with the first configuration.
-The library is copyrighted under an MIT license.
+
+-[x] Here’s a customisable, easy-to-use, and functional circular time range picker library:
+-[x] The project is 100% written in Kotlin and was created to mimic Apple’s iOS or Samsung’s bedtime picker. It has good documentation, which also helps with the first configuration.
+-[x] The library is copyrighted under an MIT license.
