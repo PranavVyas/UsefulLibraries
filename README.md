@@ -57,3 +57,8 @@ The project was built to showcase the usage of Android modern development compon
 Coroutines
 Android Architecture Components, especially: Stateflow, Flow, ViewModel , Room, Jetpack Navigation, DataStore, and Material Components for Android
 The documentation is really good and presents the overall project structure and architecture.
+
+9. TimeRangePicker
+Here’s a customisable, easy-to-use, and functional circular time range picker library:
+The project is 100% written in Kotlin and was created to mimic Apple’s iOS or Samsung’s bedtime picker. It has good documentation, which also helps with the first configuration.
+The library is copyrighted under an MIT license.
