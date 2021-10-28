@@ -49,3 +49,11 @@ https://github.com/wdullaer/MaterialDateTimePicker
 - [x] Material DateTime Picker tries to offer you the date and time pickers as shown in the Material Design spec, with an easy themable API.
 - [x] The library uses the code from the Android frameworks as a base and tweaked it to be as close as possible to Material Design example.
 - [x] Support for Android 4.1 and up. (Android 4.0 was supported until 3.6.4)
+
+8. Expenso
+This is a simple application for tracking your expenses.
+
+The project was built to showcase the usage of Android modern development components based on MVVM architecture, like:
+Coroutines
+Android Architecture Components, especially: Stateflow, Flow, ViewModel , Room, Jetpack Navigation, DataStore, and Material Components for Android
+The documentation is really good and presents the overall project structure and architecture.
