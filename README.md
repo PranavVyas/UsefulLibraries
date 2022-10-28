@@ -71,3 +71,7 @@ The documentation is really good and presents the overall project structure and 
 
 12. Calligraphy
 -[x] Calligraphy is one of the most popular custom font libraries available and it is quite easy to get along with. With this library, we can easily declare a single font across our whole application or define fonts individually to a text.
+
+
+13. Android-job
+- [x]Android-job is an Android library used to handle jobs in the background. Depending on the Android version either the JobScheduler, GcmNetworkManager or AlarmManager will be used. This is why this library wins the heart of all. Instead of using separate APIs within one codebase and checking for API versions to know which scheduling API to use, Android-job reduces our code size together with the stress and does this for us. This library requires API 14 (Android 4.0) or later.
