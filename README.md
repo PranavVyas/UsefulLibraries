@@ -68,3 +68,6 @@ The documentation is really good and presents the overall project structure and 
 
 11. Dagger2
 - [x] Dagger2 is a fully static, compile-time dependency injection framework for both Java and Android. It is an upgrade to the earlier version (Dagger1) created by Square that is now maintained by Google. The recent Dagger version includes Android specific helpers for Android. Specifically, the auto-generation of subcomponents using a new code generator. Dagger2 is very deep and may require just more than the brief sample usage for adequate understanding, but let's take a look at it anyway.
+
+12. Calligraphy
+-[x] Calligraphy is one of the most popular custom font libraries available and it is quite easy to get along with. With this library, we can easily declare a single font across our whole application or define fonts individually to a text.
