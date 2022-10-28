@@ -65,3 +65,6 @@ The documentation is really good and presents the overall project structure and 
 
 10. Retrofit
 - [x] Retrofit is a type-safe HTTP client for Android and Java developed and maintained by Square (the same company that supports Picasso). Retrofit is the most used networking library in Android development. In Retrofit, with just annotations, you can easily add a request body, manipulate endpoints, manipulate headers, add query parameters, and choose request methods. Retrofit also handles parsing to POJOs very well by using converters.
+
+11. Dagger2
+- [x] Dagger2 is a fully static, compile-time dependency injection framework for both Java and Android. It is an upgrade to the earlier version (Dagger1) created by Square that is now maintained by Google. The recent Dagger version includes Android specific helpers for Android. Specifically, the auto-generation of subcomponents using a new code generator. Dagger2 is very deep and may require just more than the brief sample usage for adequate understanding, but let's take a look at it anyway.
