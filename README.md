@@ -51,14 +51,17 @@ https://github.com/wdullaer/MaterialDateTimePicker
 - [x] Support for Android 4.1 and up. (Android 4.0 was supported until 3.6.4)
 
 8. Expenso
--[x] This is a simple application for tracking your expenses.
--[x] The project was built to showcase the usage of Android modern development components based on MVVM architecture, like:
+- [x] This is a simple application for tracking your expenses.
+- [x] The project was built to showcase the usage of Android modern development components based on MVVM architecture, like:
 Coroutines
--[x] Android Architecture Components, especially: Stateflow, Flow, ViewModel , Room, Jetpack Navigation, DataStore, and Material Components for Android
+- [x] Android Architecture Components, especially: Stateflow, Flow, ViewModel , Room, Jetpack Navigation, DataStore, and Material Components for Android
 The documentation is really good and presents the overall project structure and architecture.
 
 9. TimeRangePicker
 
--[x] Here’s a customisable, easy-to-use, and functional circular time range picker library:
--[x] The project is 100% written in Kotlin and was created to mimic Apple’s iOS or Samsung’s bedtime picker. It has good documentation, which also helps with the first configuration.
--[x] The library is copyrighted under an MIT license.
+- [x] Here’s a customisable, easy-to-use, and functional circular time range picker library:
+- [x] The project is 100% written in Kotlin and was created to mimic Apple’s iOS or Samsung’s bedtime picker. It has good documentation, which also helps with the first configuration.
+- [x] The library is copyrighted under an MIT license.
+
+10. Retrofit
+- [x] Retrofit is a type-safe HTTP client for Android and Java developed and maintained by Square (the same company that supports Picasso). Retrofit is the most used networking library in Android development. In Retrofit, with just annotations, you can easily add a request body, manipulate endpoints, manipulate headers, add query parameters, and choose request methods. Retrofit also handles parsing to POJOs very well by using converters.
